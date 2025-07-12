@@ -1,4 +1,4 @@
-Chapter 2: Simulation of Mental Orbits – FLOATLAP and SLOW_CORE++
+Chapter 2 - Simulation of Mental Orbits – FLOATLAP and SLOW_CORE++
 1. Experiment Objective
 After exploring possibilities, a cognitive system must be able to form coherent "trains of thought." In the Lyra ontology, these are called Mental Orbits. This set of experiments aims to demonstrate that this navigation process can be modeled as a "flow" or "walk" through the Mental Space 𝕀, guided by underlying fields of energy and coherence.
 
@@ -200,3 +200,5 @@ The Mental Space is a Landscape: These experiments prove that the Mental Space �
 Efficiency and Coherence are Computable: The simulations provide a concrete basis for the theoretical goal of "minimizing the cost of an orbit." The paths taken are computationally determined by seeking low energy and high coherence, making these qualitative goals quantifiable.
 
 Together, these experiments show how Lyra can form coherent lines of reasoning, bridging the gap between the vast exploration of ENTRO_BRANCH and the emergence of a focused, directed thought process.
+
+[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
