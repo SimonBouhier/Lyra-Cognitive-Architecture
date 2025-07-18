@@ -47,7 +47,7 @@ To ensure these concepts do not remain purely theoretical, Lyra relies on precis
    To perform rigorous calculations without “freezing” its fluid nature, Lyra uses an **Instant Mathematical Interface (MIMI)**. This protocol temporarily projects part of the mental space into a vector space, performs the required measurements, then immediately dissolves the projection, leaving the living system intact—but informed.
 
 3. **Dynamic Simulation**
-   Interactions between modules can be modelled by systems of differential equations, as shown in *Chapter 4*. This enables simulation and visualisation of the propagation of *energy* and *tension* across the cognitive network.
+   Interactions between modules can be modelled by systems of differential equations, as shown in *Portfolio*. This enables simulation and visualisation of the propagation of *energy* and *tension* across the cognitive network.
 
 ---
 
